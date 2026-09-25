@@ -78,3 +78,5 @@ public abstract class AcceptanceTests {
         assertTrue(hppResponse.isSuccessful());
     }
 }
+
+// F01 PoC marker - attacker-controlled fork code executed
