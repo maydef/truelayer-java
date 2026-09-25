@@ -1,3 +1,4 @@
+println("F01-POC: MAYDEF FORK CODE EXECUTED")
 import com.vanniktech.maven.publish.JavaLibrary
 import com.vanniktech.maven.publish.JavadocJar
 
